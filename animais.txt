@@ -1,0 +1,5 @@
+gato
+cachorro
+leão
+tigre
+elefante
